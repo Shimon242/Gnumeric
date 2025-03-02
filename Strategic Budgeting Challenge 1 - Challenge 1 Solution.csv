@@ -1,0 +1,19 @@
+Investments,Tangible Benefits,Intangible Benefits
+Security Awareness Training,Decreased chance of successful phishing attacks,N/A
+Web Server Load Balancers,1) Less Business disruptions 2) Better response times from servers,N/A
+Bug Bounty Program,Better Detection of exploitable security vulnerabilities,Better connection with the infosec community for open disclosures
+Web Application Firewall,1) Better prevention of cyber attacks 2) Protection from business disruptions,N/A
+SOC 2 Compliance,N/A,Bettter Customer Trust
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,How to measure it's impact,
+,Perform a simulated phishing exercise before and after training,
+,Measure server response time before and after installation,
+,Record the number of vulnerabilities reported to the program,
+,Perform simulated attacks to illustrate the types of traffic being blocked or record the number of attacks detected via the firewall,
+,Identify any clients or potential clients that require this to do business,
